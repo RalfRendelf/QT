@@ -3,8 +3,8 @@
 
 #include <QMainWindow>
 #include <QUdpSocket>
-#include <QString>
-#include <QByteArray>
+//#include <QString>
+//#include <QByteArray>
 
 QT_BEGIN_NAMESPACE
 namespace Ui {

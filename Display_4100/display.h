@@ -3,7 +3,7 @@
 
 #include <QMainWindow>
 #include <QUdpSocket>
-//#include <QString>
+
 #include <QTableWidget>
 
 QT_BEGIN_NAMESPACE
